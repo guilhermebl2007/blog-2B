@@ -1,1 +1,2 @@
-# blog-2B
+# ceaa
+Blog da turma 2b NEM
